@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O projeto tem como objetivo ajudar o usuário a organizar viagens à trabalho ou lazer. O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem, o usuário pode planejar suas atividades diárias, facilitando a organização e o compartilhamento de informações com os participantes.
+O projeto tem como objetivo ajudar o usuário a organizar viagens à trabalho ou lazer. O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem, o usuário pode planejar suas atividades diárias, facilitando a organização e o compartilhamento de informações com os participantes. O banco de dados esta em H2 Drive, então precisa apenas iniciar o projeto para funcionar.
 
 ## Requisitos
 
